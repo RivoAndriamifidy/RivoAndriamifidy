@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h3 align="left">outils :</h3>
+<h3 align="left">Langues et outils :</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
@@ -48,3 +48,25 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rivoandriamifidy&show_icons=true&locale=en" alt="Stats GitHub" />
 </p>
+
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .github-stats {
+    animation: fadeIn 1s forwards;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const statsCard = document.querySelector(".github-stats");
+    statsCard.classList.add("github-stats");
+  });
+</script>
