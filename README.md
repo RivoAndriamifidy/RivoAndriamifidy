@@ -56,6 +56,6 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivoandriamifidy&show_icons=true&locale=en&layout=compact" alt="Top Langages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivoandriamifidy&show_icons=true&locale=fr&layout=compact" alt="Top Langages" />
 </p>
 
