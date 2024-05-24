@@ -11,16 +11,6 @@
   </a>
 </p>
 
-<h3 align="left">Connectez-vous avec moi :</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rivo-andriamifidy-8741362a3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="70" width="80" />
-  </a>
-  <a href="https://www.facebook.com/andriamifidy.rivo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="70" width="80" />
-  </a>
-</p>
-
 <h3 align="left">Technologies :</h3>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -58,4 +48,15 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivoandriamifidy&show_icons=true&locale=fr&layout=compact" alt="Top Langages" />
 </p>
+
+<h3 align="left">Connectez-vous avec moi :</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rivo-andriamifidy-8741362a3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="70" width="80" />
+  </a>
+  <a href="https://www.facebook.com/andriamifidy.rivo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="70" width="80" />
+  </a>
+</p>
+
 
